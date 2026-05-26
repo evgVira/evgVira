@@ -1,5 +1,3 @@
-#Evgeny Viryasov
-
 ## 💻 Технологии и стек
 ### Backend:
 - **Язык:** Java
